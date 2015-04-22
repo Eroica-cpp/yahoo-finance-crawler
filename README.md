@@ -8,5 +8,7 @@ python crawler.py <companyName>
 
 Example
 -----
+```
 # download data of facebook
 python crawler.py FB
+```
