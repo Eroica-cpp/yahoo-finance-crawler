@@ -4,7 +4,9 @@ Python script to download data from Yahoo! Finance
 
 Usage
 -----
+```
 python crawler.py <companyName>
+```
 
 Example
 -----
